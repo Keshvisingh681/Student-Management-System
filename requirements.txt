@@ -1,0 +1,3 @@
+# Requirements file for Student Management System
+# Built using standard library modules (json, re, unittest, os, sys)
+# No external package requirements needed.

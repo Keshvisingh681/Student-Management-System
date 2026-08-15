@@ -1,0 +1,41 @@
+[
+    {
+        "name": "keshvi singh",
+        "age": 21,
+        "gender": "Female",
+        "email": "keshvisingh759@gmail.com",
+        "phone": "8467871198",
+        "address": "jaunpur",
+        "student_id": "101",
+        "course": "B.Tech",
+        "branch": "CSE",
+        "semester": 7,
+        "cgpa": 7.8
+    },
+    {
+        "name": "manvi singh",
+        "age": 21,
+        "gender": "Female",
+        "email": "manvisingh759@gmail.com",
+        "phone": "8467872297",
+        "address": "ayodhya",
+        "student_id": "123",
+        "course": "B.Tech",
+        "branch": "CSE",
+        "semester": 7,
+        "cgpa": 7.8
+    },
+    {
+        "name": "Ravi Dubey",
+        "age": 20,
+        "gender": "Male",
+        "email": "ravi98@gmail.com",
+        "phone": "8798654321",
+        "address": "lucknow",
+        "student_id": "231",
+        "course": "B.Tech",
+        "branch": "ECE",
+        "semester": 3,
+        "cgpa": 5.6
+    }
+]
